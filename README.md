@@ -36,7 +36,7 @@ This iOS module simulates a key user journey inside the Aisle app, built using U
 
 - **UIKit**
 - **Swift 5**
-- **MVC Architecture**
+- **MVVM Architecture**
 - **NSCache** for image optimization
 - **UICollectionView** for dynamic profile display
 
